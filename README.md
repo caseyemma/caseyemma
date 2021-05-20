@@ -1,5 +1,6 @@
 # Hi, I’m Casey 👋
-📫 ccollins0802@gmail.com
+
+I'm currently learning all about Frontend.
 
 <!---
 caseyemma/caseyemma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
